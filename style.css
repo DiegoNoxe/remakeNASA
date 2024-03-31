@@ -5,6 +5,10 @@
     padding: 0px;   
    }
 
+span {
+    color: rgb(211, 198, 15);
+}
+
 img.user {
     width: 50px;
     position: absolute;
@@ -13,7 +17,7 @@ img.user {
 }
 
 body {
-    background-color: #585858;
+    background-color: #000000d5;
 }
 
 header {
